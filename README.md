@@ -4,16 +4,6 @@ This project is a **simple Python Flask web application** that is **containerize
 **built and tested in GitHub Codespaces**, and the **image is pushed to Docker Hub**.
 <img width="1920" height="1080" alt="Screenshot (37)" src="https://github.com/user-attachments/assets/77f557a6-3906-4051-bdc2-64ed39abe9d9" />
 
-You can use this project to show:
-- You know **Python + Flask**
-- You can write a **Dockerfile**
-- You can build and run **Docker containers**
-- You can use **GitHub Codespaces**
-- You are able to **push Docker images to Docker Hub**
-- You can **upload code to GitHub**
-
----
-
 ## 📁 Project Structure
 
 ```bash
